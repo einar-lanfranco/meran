@@ -43,7 +43,7 @@ And now proceed to install.
 
 ```
 chmod +x instalar.pl
-./instalar -i MERAN_ID
+./instalar.pl -i MERAN_ID
 ```
 
 And follow the steps. MERAN_ID it's an identifier for the installation, since you can have multiples MERAN installed.
